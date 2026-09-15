@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="Selected TV",ARY Digital
+https://cdn21lhr.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8
+#EXTINF:-1 group-title="Selected TV",ARY News
+https://cdn07lhr.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/live/vsat-arynews-H/chunks_dvr_timeshift-0-3600.m3u8
+#EXTINF:-1 group-title="Selected TV",Dunya News
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 group-title="Selected TV",HUM TV
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Selected TV",DD National
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 group-title="Selected TV",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 group-title="Selected TV",Geo News
+https://playlive.goonj.pk/geonewsweb_480p/index.m3u8
+#EXTINF:-1 group-title="Selected TV",Geo Entertainment
+https://playlive.goonj.pk/geoentweb_480p/index.m3u8
+#EXTINF:-1 group-title="Selected TV",ARY Musik
+https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
+#EXTINF:-1 group-title="Selected TV",Green Entertainment
+http://121.91.61.106:8000/play/a01z/index.m3u8
